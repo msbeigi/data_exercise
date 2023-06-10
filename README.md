@@ -26,13 +26,19 @@ The code generates plots that show the Gaussian process mean function and compar
 ### Acknowledgments
 This code was developed as part of a data modeling assessment for the store assistant vacancy at Pandora. It demonstrates the application of Gaussian processes for energy consumption data modeling.
 
-### Requirments
-To run the code, you will need the following dependencies and resources:
+### Dependencies
+The code relies on the following dependencies:
+
+openpyxl: For loading Excel files.
+pandas: For data manipulation and analysis.
+numpy: For numerical computations.
+matplotlib.pyplot: For data visualization.
+
 ``` 
-numpy==1.22.4
-scikit-learn==1.2.2
-pandas==1.5.3
-matplotlib==3.7.1
-openpyxl==3.0.10
+pip install numpy==1.22.4
+pip install scikit-learn==1.2.2
+pip install pandas==1.5.3
+pip install matplotlib==3.7.1
+pip install openpyxl==3.0.10
 
 ``` 
