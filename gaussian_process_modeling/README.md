@@ -35,10 +35,10 @@ numpy: For numerical computations.
 matplotlib.pyplot: For data visualization.
 
 ``` 
-pip install numpy==1.22.4
-pip install scikit-learn==1.2.2
-pip install pandas==1.5.3
-pip install matplotlib==3.7.1
-pip install openpyxl==3.0.10
+numpy==1.22.4
+scikit-learn==1.2.2
+ppandas==1.5.3
+pmatplotlib==3.7.1
+openpyxl==3.0.10
 
 ``` 
